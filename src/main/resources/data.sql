@@ -1,0 +1,1 @@
+INSERT INTO CONNECTION (NAME, HOSTNAME, PORT, DATABASE_NAME, USERNAME, PASSWORD) VALUES ('First', 'localhost', 3306, 'toTest', 'dbuser', 'pass');
